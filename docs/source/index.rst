@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+ABC8 - abc8.la địa chỉ nhà cái đáng tin cậy nhất hiện nay
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ABC8 <https://abc8.la/>`_ được mệnh danh là sòng bài thu nhỏ las vegas. Sở hữu hệ thống trò chơi hiện đại từ rồng hổ, baccarat, bắn cá, slot game cho đến thể thao, đá gà... Hệ thống khuyến mãi và cơ cấu trả thưởng lớn, thu hút đông đảo cộng đồng cược thủ tham gia. Đứng sau là hệ thống đầu tư mạnh từ tập đoàn nổi tiếng WINCAPITAL và YOUFA. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Website: https://abc8.la/
 
-   This project is under active development.
+Địa chỉ: 14 Hẻm D13, Vĩnh Lộc A, Bình Chánh, Hồ Chí Minh, Vietnam
 
-Contents
---------
+Email: info@abc8.la
 
-.. toctree::
+Phone: 0364804677
 
-   usage
-   api
+#abc8, #abc8_com, #nha_cai_abc8, #abc8_bet, #abc88
